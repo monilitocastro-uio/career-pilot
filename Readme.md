@@ -10,7 +10,7 @@ You need two separate terminals to install and run these.
  ```
  2. Todo Client
  ```bash
- cd todo-app
+ cd react-app
  npm install
  npm start
  ```
